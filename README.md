@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my portoflio project.
+
+Currently I'm still working on the webside.
+
+In the future there will be some information about me and some projects implemented.
+
+### Stay tunned!
 
 <!--
 **Mex7180/Mex7180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
